@@ -1,7 +1,7 @@
 ## Hi there, I'm Ray 👋
 
 **Software Engineering @ University of Waterloo (Class of 2029)**  
-*Incoming Software Engineering Intern at Tangam Systems | Former SWE Intern at Ciena Infrastructure*
+*Incoming QA Automation Intern at Tangam Systems | Former SWE Intern at Ciena Infrastructure*
 
 ---
 
